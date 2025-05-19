@@ -1,3 +1,22 @@
 body{
     background-color: rgb(133, 114, 114);
 }
+
+  
+  
+header{
+     text-align: center;
+     font-family: "Exile", system-ui;
+     font-weight: 400;
+     font-style: normal;
+     color: brown;
+      }
+      
+
+header img{
+    padding: 40px;
+   width: 350px;
+   border: 20px solid rgb(220, 163, 235);
+   border-radius: 50%;
+   
+}
